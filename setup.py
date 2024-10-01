@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     license='Apache License 2.0',
     python_requires='>=3.5',
-    install_requires=['requests==2.22.0'],
+    install_requires=['requests>=2.31.0'],
     packages=find_packages(),
     classifiers=[
         'License :: OSI Approved :: Apache Software License',
